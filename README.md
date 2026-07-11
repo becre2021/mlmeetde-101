@@ -1,3 +1,13 @@
+
+## About
+
+These notebooks were prepared for the lecture **“Mathematics Meets Scientific AI: From Linear Regression to PINNs and Neural Operators”**,
+held at **Ewha Womans University from July 7 to July 9, 2026**.
+
+The materials introduce linear regression, neural network approximation, finite difference methods, physics-informed neural networks, and neural operators for solving differential equations.
+
+
+
 ## Notebooks
 
 | Lecture | Notebook                                                      | Topic                                                                   |
