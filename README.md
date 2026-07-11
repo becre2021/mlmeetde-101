@@ -3,8 +3,8 @@
 | Lecture | Notebook                                                      | Topic                                                                   |
 | ------- | ------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | Lec 1   | `practice_lec1_linearfunc.ipynb`                              | Linear functions and basic model fitting                                |
-| Lec 2   | `practice_lec2_mlp-stepfunc.ipynb`                            | MLP approximation of a step function                                    |
-| Lec 2   | `practice_lec2_nonlinearfunc-stepfunc.ipynb`                  | Nonlinear function approximation using an MLP                           |
+| Lec 2   | `practice_lec2_nonlinearfunc-stepfunc.ipynb`                  | Nonlinear function modeling for a step function                         |
+| Lec 2   | `practice_lec2_mlp-stepfunc.ipynb`                            | One-hidden layer NN modeling for a step function                        |
 | Lec 3   | `practice_lec3_AD_input_1d2d3d.ipynb`                         | Automatic differentiation with 1D, 2D, and 3D inputs                    |
 | Lec 3   | `practice_lec3_heat-fdm.ipynb`                                | Finite difference method for the heat equation                          |
 | Lec 3   | `practice_lec3_burgers_fdm.ipynb`                             | Finite difference method for the Burgers equation                       |
@@ -29,6 +29,11 @@ The following resources are recommended for students who want to study PINNs and
 * [Alessandro Bombini's Teaching Materials](https://androbomb.github.io/teaching/)
   Lecture slides, course materials, and hands-on exercises on PINNs and neural operators.
 
+### Lecture Notes
+
+* [Physics-Informed Neural Networks and Neural Operators — Alessandro Bombini](https://androbomb.github.io/assets/pdf/Bombini_PINN_Lecture_Notes_v20260403.pdf)
+  Lecture notes covering numerical differential equations, PINNs, and neural operators.
+
 ### Video Lectures
 
 * [Tutorial on Neural Operators — Zongyi Li](https://www.youtube.com/watch?v=PpTkY8lgV3c)
@@ -41,7 +46,3 @@ The following resources are recommended for students who want to study PINNs and
 * [NeuralOperator](https://github.com/neuraloperator/neuraloperator)
   An open-source PyTorch library containing implementations of FNOs and other neural operator architectures.
 
-### Lecture Notes
-
-* [Physics-Informed Neural Networks and Neural Operators — Alessandro Bombini](https://androbomb.github.io/assets/pdf/Bombini_PINN_Lecture_Notes_v20260403.pdf)
-  Lecture notes covering numerical differential equations, PINNs, and neural operators.
