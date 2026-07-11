@@ -26,7 +26,6 @@ The following resources are recommended for students who want to study PINNs and
 
 * [Zongyi Li's Neural Operator Blog](https://zongyi-li.github.io/blog/)
   Introductory articles on Graph Neural Operators (GNOs) and Fourier Neural Operators (FNOs).
-
 * [Alessandro Bombini's Teaching Materials](https://androbomb.github.io/teaching/)
   Lecture slides, course materials, and hands-on exercises on PINNs and neural operators.
 
@@ -34,7 +33,6 @@ The following resources are recommended for students who want to study PINNs and
 
 * [Tutorial on Neural Operators — Zongyi Li](https://www.youtube.com/watch?v=PpTkY8lgV3c)
   An introductory tutorial explaining the main ideas behind neural operators.
-
 * [AI in the Sciences and Engineering 2024 — ETH Zürich](https://www.youtube.com/watch?v=LkKvhvsf6jY&list=PLJkYEExhe7rYFkBIB2U5pf_RWzYnFLj7r)
   A lecture series on deep learning, scientific machine learning, PINNs, neural operators, and related applications.
 
