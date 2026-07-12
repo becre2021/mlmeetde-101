@@ -56,3 +56,8 @@ The following resources are recommended for students who want to study PINNs and
 * [NeuralOperator](https://github.com/neuraloperator/neuraloperator)
   An open-source PyTorch library containing implementations of FNOs and other neural operator architectures.
 
+
+### Contact
+
+For questions about the lecture materials, please contact me at `yohan.jung [at] jbnu [dot] ac [dot] kr`.
+
